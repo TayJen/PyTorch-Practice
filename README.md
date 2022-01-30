@@ -1,2 +1,2 @@
 # PyTorch-Practice
-Here I post projects/self.ideas which are implemented with PyTorch
+Here I learn PyTorch by posting my practices/projects/self.ideas which are implemented with PyTorch.
